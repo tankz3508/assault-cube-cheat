@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="assault-cube-cheat/assault-cube-cheat.vcxproj" />
+</Solution>
